@@ -3,6 +3,7 @@ Here is a list of (identified) groups/individuals who use [[http://www.monperrus
 You can add your group/name by [[https://github.com/monperrus/bibtexbrowser/edit/master/bibtexbrowser-users.wiki|editing it on GitHub]].
 
 ==== Groups ====
+* [[http://5gmobile.fel.cvut.cz/publications/|5Gmobile research lab, Czech Technical University in Prague, Czech Republic]]
 * [[http://www.etds.im.uj.edu.pl/publications.php|Ergodic Theory & Dynamical Systems Research Group, Jagiellonian University, Poland]]
 * [[http://hpi.de/de/giese/personen/prof-dr-holger-giese.html|Chair for "System Analysis and Modeling, Hasso Plattner Institute in Potsdam, Germany]]
 * [[http://ipi.ugent.be/ipi/drupal/|Image Processing and Interpretation Group, Ghent University, Belgium]]
